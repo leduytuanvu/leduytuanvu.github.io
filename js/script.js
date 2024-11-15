@@ -1,2 +1,1 @@
-console.log("Chào mừng đến với trang cá nhân của Lê Duy Tuấn Vũ!");
-console.log("Nếu bạn là cô gái dễ thương, hãy đọc kỹ và liên hệ ngay nhé 😜");
+console.log("Xin chào! Bạn đã ghé thăm trang cá nhân của Lê Duy Tuấn Vũ. Nếu bạn là cô gái dễ thương, hãy để lại một lời nhắn nhé 😜");
